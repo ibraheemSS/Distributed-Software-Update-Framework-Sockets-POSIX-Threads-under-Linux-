@@ -1,0 +1,9 @@
+# Format: client_id=installed_version
+client_001=1.5.0
+client_002=1.5.0
+client_003=1.4.0
+client_004=1.5.0
+client_005=1.2.0
+client_006=1.2.0
+client_007=1.2.0
+client_008=1.2.0

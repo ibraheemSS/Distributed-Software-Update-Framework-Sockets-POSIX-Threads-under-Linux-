@@ -1,0 +1,3 @@
+2026-07-25 18:17:11.195 [INFO ] [client] [-] CHECK_FOR_UPDATE current=1.2.0
+2026-07-25 18:17:11.386 [INFO ] [client] [-] DOWNLOAD start version=1.5.0 size=8388608 offset=0
+2026-07-25 18:17:22.109 [INFO ] [client] [-] DOWNLOAD complete file=./clients/client_002/downloads/app-1.5.0.bin version=1.5.0

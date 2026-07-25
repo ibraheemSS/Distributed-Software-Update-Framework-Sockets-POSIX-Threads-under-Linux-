@@ -1,0 +1,12 @@
+# Registered clients authorized after mutual TLS authentication.
+# TLS client certificates authenticate identity. This file authorizes
+# authenticated certificate identities to use the update service.
+# Format: client_id:enabled
+client_001:enabled
+client_002:enabled
+client_003:enabled
+client_004:enabled
+client_005:enabled
+client_006:enabled
+client_007:enabled
+client_008:enabled
